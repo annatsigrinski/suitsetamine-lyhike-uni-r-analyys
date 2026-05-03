@@ -31,8 +31,9 @@ Analüüsi eesmärk oli hinnata, kas suitsetajatel on suurem tõenäosus magada 
 
 ## Failid
 
-- `analysis.R` – R-kood
-- `raport.pdf` – kirjalik projektiraport
+- `analyys.R` – R-kood
+- `projekt.pdf` – kirjalik projektiraport
+- `dataset.csv` - projektis kasutatud andmestik
 
 ## Märkus
 
