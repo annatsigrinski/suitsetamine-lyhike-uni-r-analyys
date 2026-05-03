@@ -35,6 +35,8 @@ Analüüsi eesmärk oli hinnata, kas suitsetajatel on suurem tõenäosus magada 
 - `projekt.pdf` – kirjalik projektiraport
 - `dataset.csv` - projektis kasutatud andmestik
 
-## Märkus
+## Märkus andmestiku kohta
 
-Andmestikku ei ole repositooriumisse lisatud. Repositoorium sisaldab koodi ja raportit, et näidata analüüsi töövoogu ning kasutatud statistilisi meetodeid.
+Repositoorium sisaldab projektis kasutatud andmestikku `dataset.csv`. Andmestik pärineb avalikust allikast, mida on viidatud projektiraportis.
+
+Projekt valmis Tartu Ülikooli õppetöö raames ning eesmärk on näidata andmete puhastamise, tunnuste ümberkodeerimise ja statistilise analüüsi töövoogu R-is.
