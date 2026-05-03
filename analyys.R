@@ -9,7 +9,7 @@ library(ggplot2)
 
 # andmete sisselugemine
 andmed <- read.csv(
-  file = "C:/Users/Kakumäe/OneDrive/Desktop/AnnaK/dataset.csv",
+  file = "dataset.csv",
   fileEncoding = "UTF-8"
 )
 
